@@ -16,6 +16,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umashankarmjabagond&layout=compact&theme=radical" alt="langs" />
 </p>
 
+## 🚀 Featured Projects
+### 🎮 Quest Arcade (LUMOS)
+A gaming analytics platform used by internal teams.
+
+- Tech: Next.js, React, GraphQL, PostgreSQL, AWS Cognito
+- Features:
+  - SEO-optimized game pages
+  - Dynamic charts (Radar, Pie, Bar)
+  - Auth & role-based access
+- Impact:
+  - Reduced data load time by 40%
+  - Handled 10k+ game records
+- 🔗 Live | 📦 Repo
+
+
 ### 📫 Let's Connect
 - 🔗 https://github.com/umashankarmjabagond
 - 📨 umashankarjabagond@gmail.com
