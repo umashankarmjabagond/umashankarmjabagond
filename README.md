@@ -10,12 +10,6 @@
 📫 How to reach me: **umashankarjabagond@gmail.com** or https://github.com/umashankarmjabagond
 📚 Always eager to learn new technologies and best practices.
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umashankarmjabagond&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umashankarmjabagond&layout=compact&theme=radical" alt="langs" />
-</p>
-
 ## 🚀 Featured Projects
 ### 🎮 Quest Arcade (LUMOS)
 A gaming analytics platform used by internal teams.
@@ -29,6 +23,12 @@ A gaming analytics platform used by internal teams.
   - Reduced data load time by 40%
   - Handled 10k+ game records
 - 🔗 Live | 📦 Repo
+
+- ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umashankarmjabagond&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umashankarmjabagond&layout=compact&theme=radical" alt="langs" />
+</p>
 
 
 ### 📫 Let's Connect
